@@ -1,0 +1,9 @@
+Kaleidescape Discover
+=====================
+
+Script to listen for heartbeat messages from Kaleidescape devices.
+
+Usage
+-----
+python kscape_discover.py
+
